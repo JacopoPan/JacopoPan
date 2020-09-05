@@ -1,6 +1,7 @@
 ### What's new:
 
-- 🔭 
+- 🔭 Currently working on 🤖 [RLlib](https://docs.ray.io/en/latest/rllib.html), 🔫 [PyBullet](https://pybullet.org/wordpress/), 🏋️ [Gym](https://gym.openai.com) 🔜 [`gym-pybullet-drones`](https://github.com/JacopoPan/gym-pybullet-drones)
+- ⚡ Check out 📓 [these tutorials](https://github.com/JacopoPan/a-minimalist-guide) if you are new to ✈️ [AirSim](https://microsoft.github.io/AirSim/) or 🖥️ [Vector Institute's computing cluster](https://vectorinstitute.ai)
 
 <!--
 **JacopoPan/JacopoPan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
