@@ -1,4 +1,4 @@
-### Always in Beta
+### Always in Beta 🧪
 
 > - 🔭 quadrotor control with [PyBullet](https://pybullet.org/wordpress/) 🔫, [Gym](https://gym.openai.com) 🏋️, [SB3](https://stable-baselines3.readthedocs.io/en/master/)/[RLlib](https://docs.ray.io/en/latest/rllib.html) 🤖    &nbsp; &nbsp; ➡️ &nbsp; &nbsp; check out [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) 🪁
 > - 🔣 symbolic & 🛑 constrained [safe control, RL]( https://arxiv.org/abs/2108.06266) environments   &nbsp; &nbsp; &nbsp; ➡️ &nbsp; &nbsp; check out [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) 🦺
