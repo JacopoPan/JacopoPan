@@ -6,8 +6,6 @@
 > I also enjoy writing ___zero-to-hero_-style tutorials__ about things like [Vector's cluster](https://vectorinstitute.ai) 🖥️, [DJI RoboMaster](https://github.com/dji-sdk/RoboMaster-SDK) 🤖, [AirSim](https://microsoft.github.io/AirSim/) ✈️, etc.
 > - 📚 [`a-minimalist-guide`](https://github.com/JacopoPan/a-minimalist-guide) 📚; 🧑‍💻 [`leetcode-top100-liked-questions`](https://github.com/JacopoPan/leetcode-top100-liked-questions) 🧑‍💻
 
-> Please, never esitate to open an issue or ask a question on any of the project I maintain, here or in [utiasDSL](https://github.com/utiasDSL) 🙏
-
 <!--
 **JacopoPan/JacopoPan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
