@@ -1,6 +1,6 @@
 ### Always in Beta 🧪
 
-> **Fall 2022**: read our ["Safe Learning in Robotics" review](https://arxiv.org/abs/2108.06266) and/or watch the results of our [IROS 2022 sim2real competition](https://www.youtube.com/watch?v=-il6B1XeJkI)
+> **Winter 2023**: read our ["Safe Learning in Robotics" review](https://arxiv.org/abs/2108.06266) and/or watch the results of our [IROS 2022 sim2real competition](https://www.youtube.com/watch?v=-il6B1XeJkI)
 
 > I am interested in [__safe learning-based control__](https://arxiv.org/abs/2108.06266) and zero-knowledge __mobile robot control__ through reinforcement learning
 > -  🦺 [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) [[paper](https://arxiv.org/abs/2109.06325)] 🦺; 🪁 [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) [[paper](https://arxiv.org/abs/2103.02142)] 🪁; 
