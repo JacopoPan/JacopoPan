@@ -1,12 +1,12 @@
 ### Always in Beta 🧪
 
-> **Winter 2023**: read our ["Safe Learning in Robotics" review](https://arxiv.org/abs/2108.06266) and/or watch the results of our [IROS 2022 sim2real competition](https://www.youtube.com/watch?v=-il6B1XeJkI)
+> **Winter 2023**: read our ["Safe Learning in Robotics" review](https://arxiv.org/abs/2108.06266) and/or re-watch our [IROS 2022 sim2real competition](https://www.youtube.com/watch?v=-il6B1XeJkI)
 
-> I am interested in [__safe learning-based control__](https://arxiv.org/abs/2108.06266) and zero-knowledge __mobile robot control__ through reinforcement learning
-> -  🦺 [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) [[paper](https://arxiv.org/abs/2109.06325)] 🦺; 🪁 [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) [[paper](https://arxiv.org/abs/2103.02142)] 🪁; 
+> I am interested in zero-knowledge __mobile robot control__ through reinforcement learning
+> - 🪁 [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) [[paper](https://arxiv.org/abs/2103.02142)] 🪁 / 🦺 [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) [[paper](https://arxiv.org/abs/2109.06325)] 🦺
  
-> I also enjoy writing _zero-to-hero_-style __tutorials__ about things like [Vector's cluster](https://vectorinstitute.ai) 🖥️, [DJI RoboMaster](https://github.com/dji-sdk/RoboMaster-SDK) 🤖, [AirSim](https://microsoft.github.io/AirSim/) ✈️, etc.
-> - 📚 [`a-minimalist-guide`](https://github.com/JacopoPan/a-minimalist-guide) 📚; 🧑‍💻 [`leetcode-top100-liked-questions`](https://github.com/JacopoPan/leetcode-top100-liked-questions) 🧑‍💻
+> I occasinally write simple/demystifying __tutorials__ about robotics and computer science
+> - 🧑‍💻 [`leetcode-top100-liked-questions`](https://github.com/JacopoPan/leetcode-top100-liked-questions) 🧑‍💻 / 📚 [`a-minimalist-guide`](https://github.com/JacopoPan/a-minimalist-guide) 📚
 
 <!--
 **JacopoPan/JacopoPan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
