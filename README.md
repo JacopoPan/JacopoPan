@@ -1,6 +1,6 @@
 ### Always in Beta 🧪
 
-> **Summer 2023**: [CDC 2023 Workshop on Benchmarking, Reproducibility, and Open-Source Code in Controls](https://www.dynsyslab.org/cdc-2023-workshop-on-benchmarking-reproducibility-and-open-source-code-in-controls/), TBA papers on open-source robotics, sim2real, and SITL support for Bitcraze, Betaflight
+> **Summer 2023**: [CDC 2023 Workshop on Benchmarking, Reproducibility, and Open-Source Code in Controls](https://www.dynsyslab.org/cdc-2023-workshop-on-benchmarking-reproducibility-and-open-source-code-in-controls/), TBA papers on open-source robotics, sim2real, and SITL support for Bitcraze, [Betaflight](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/beta.py)
 
 > I am interested in zero-knowledge __mobile robot control__ _via_ reinforcement learning
 > - 🪁 [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) [[paper](https://arxiv.org/abs/2103.02142)] 🪁 / 🦺 [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) [[paper](https://arxiv.org/abs/2109.06325)] 🦺
