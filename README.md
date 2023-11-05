@@ -5,7 +5,7 @@
 > - (article) [What is the Impact of Releasing Code with Publications?](https://arxiv.org/abs/2308.10008v1)
 > - (article) [A Remote Sim2real Aerial Competition at IROS 2022](https://arxiv.org/abs/2308.16743)
 > - (software) multi-drone SITL support for [Betaflight](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/beta.py), CFFirmware (WIP) in [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones)
-> - (dataset) TBA
+> - (dataset) [`tii-racing/drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset)
 
 > I am interested in __aerial robot control__ _via_ reinforcement learning
 > - 🪁 [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) [[paper](https://arxiv.org/abs/2103.02142)] 🪁 / 🦺 [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) [[paper](https://arxiv.org/abs/2109.06325)] 🦺
