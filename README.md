@@ -4,7 +4,7 @@
 > - (event) [CDC 2023 Workshop on Benchmarking, Reproducibility, and Open-Source Code in Controls](https://www.dynsyslab.org/cdc-2023-workshop-on-benchmarking-reproducibility-and-open-source-code-in-controls/)
 > - (article) [What is the Impact of Releasing Code with Publications?](https://arxiv.org/abs/2308.10008v1)
 > - (article) [A Remote Sim2real Aerial Competition at IROS 2022](https://arxiv.org/abs/2308.16743)
-> - (software) multi-drone SITL support for [Betaflight](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/beta.py), CFFirmware (WIP) in [`utiasDSL/gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones)
+> - (software) support for [SB3 2.0](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/learn.py), [Betaflight SITL](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/beta.py), CFFirmware (WIP) in [`utiasDSL/gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones)
 > - (dataset) 🏎️ [`tii-racing/drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset) [[paper](https://arxiv.org/abs/2311.02667)] 🏎️
 
 > I am interested in __aerial robot control__ _via_ reinforcement learning
