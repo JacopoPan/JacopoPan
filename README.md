@@ -1,6 +1,6 @@
 ### Always in Beta 🧪
 
-> **Winter 2023**:
+> **Winter 2024**:
 > - (event) [CDC 2023 Workshop on Benchmarking, Reproducibility, and Open-Source Code in Controls](https://www.dynsyslab.org/cdc-2023-workshop-on-benchmarking-reproducibility-and-open-source-code-in-controls/) [[video](https://youtu.be/UYdkRnGr8eM?feature=shared)]
 > - (article) [What is the Impact of Releasing Code with Publications?](https://arxiv.org/abs/2308.10008v1) in IEEE Control Systems Magazine
 > - (software) support for [SB3 2.0](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/learn.py), [Betaflight SITL](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/beta.py), CFFirmware (WIP) in [`utiasDSL/gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones)
