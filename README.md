@@ -2,7 +2,7 @@
 
 > **Winter 2024**:
 > - (article) [What is the Impact of Releasing Code with Publications?](https://arxiv.org/abs/2308.10008v1) in IEEE Control Systems Magazine
-> - (software) support for [SB3 2.0](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/learn.py), [Betaflight SITL](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/beta.py), CFFirmware (WIP) in [`utiasDSL/gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones)
+> - (software) support for [SB3 2.0](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/learn.py), [Betaflight SITL](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/beta.py), [`pycffirmware`](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/cf.py) in [`utiasDSL/gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones)
 > - (dataset) 🏎️ [`tii-racing/drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset) [[paper](https://arxiv.org/abs/2311.02667)] 🏎️ in IEEE Robotics and Automation Letters
 
 > I am interested in __aerial robot control__ _via_ reinforcement learning
