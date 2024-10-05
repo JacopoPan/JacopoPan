@@ -1,8 +1,9 @@
 ### Always in Beta 🧪
 
-> **Summer 2024**:
+> **Winter 2024**:
 > - (article) [What is the Impact of Releasing Code with Publications?](https://arxiv.org/abs/2308.10008v1) in IEEE Control Systems Magazine
 > - (software) support for [SB3 2.0](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/learn.py), [Betaflight SITL](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/beta.py), [`pycffirmware`](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/cf.py) in [`utiasDSL/gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones)
+> - (software) [`px4-fw-aerobatics`](https://github.com/JacopoPan/px4-fw-aerobatics), autonomous aileron rolls and dives using VTOL's PX4 off-board control in ROS2
 
 > I am interested in __aerial robot control__ _via_ reinforcement learning
 > - 🪁 [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) [[paper](https://arxiv.org/abs/2103.02142)] 🪁 / 🦺 [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) [[paper](https://arxiv.org/abs/2109.06325)] 🦺
