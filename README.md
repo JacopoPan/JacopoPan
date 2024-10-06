@@ -6,7 +6,7 @@
 > - (software) [`px4-fw-aerobatics`](https://github.com/JacopoPan/px4-fw-aerobatics), autonomous aileron rolls and dives using VTOL's PX4 off-board control in ROS2
 
 > I am interested in __aerial robot control__ _via_ reinforcement learning
-> - 🪁 [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) [[paper](https://arxiv.org/abs/2103.02142)] 🪁 / 🦺 [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) [[paper](https://arxiv.org/abs/2109.06325)] 🦺
+> - 🪁 [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) [[paper](https://arxiv.org/abs/2103.02142)] 🪁 / 🦺 [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) [[paper](https://arxiv.org/abs/2109.06325)] 🦺 / 🤹 [`px4-fw-aerobatics`](https://github.com/JacopoPan/px4-fw-aerobatics) 🤹
 
 <!--
 > - (article) [A Remote Sim2real Aerial Competition at IROS 2022](https://arxiv.org/abs/2308.16743)
