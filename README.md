@@ -1,7 +1,7 @@
 ### Always in Beta 🧪
 
 > **Summer 2025**:
-> - (article) [Advancing Reproducibility, Benchmarks, and Education using Remote Sim2real](https://arxiv.org/abs/tba) in IEEE Robotics and Automation Magazine
+> - (article) [Advancing Reproducibility, Benchmarks, and Education using Remote Sim2real](https://arxiv.org/abs/tba) in IEEE Robotics & Automation Magazine
 > - (software) [`px4-fw-aerobatics`](https://github.com/JacopoPan/px4-fw-aerobatics), PX4-ROS2 autonomous takeoff-to-landing flight and aileron rolls for VTOLs
 > - (software) support for [SB3 2.0](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/learn.py), [Betaflight SITL](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/beta.py), [`pycffirmware`](https://github.com/utiasDSL/gym-pybullet-drones/blob/main/gym_pybullet_drones/examples/cf.py) in [`utiasDSL/gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones)
 
