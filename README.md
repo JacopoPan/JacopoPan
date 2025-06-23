@@ -1,8 +1,8 @@
 ### Always in Beta 🧪
 
 > **Summer 2025**:
-> - [Advancing Reproducibility, Benchmarks, and Education using Remote Sim2real](https://arxiv.org/abs/tba) in IEEE Robotics & Automation Magazine
-> - [What is the Impact of Releasing Code with Publications?](https://arxiv.org/abs/2308.10008v1) in IEEE Control Systems Magazine
+> - [Advancing Reproducibility, Benchmarks, and Education using Remote Sim2real](https://arxiv.org/abs/tba) IEEE Robotics & Automation Magazine
+> - [What is the Impact of Releasing Code with Publications?](https://arxiv.org/abs/2308.10008v1) IEEE Control Systems Magazine
 > - [`px4-fw-aerobatics`](https://github.com/JacopoPan/px4-fw-aerobatics) 🤹 PX4-ROS2 autonomous takeoff-to-landing flight and aileron rolls for VTOLs
 
 > I am interested in __aerial robot control__ _via_ reinforcement learning
