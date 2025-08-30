@@ -5,7 +5,7 @@
 > - 📚 [Advancing Reproducibility, Benchmarks, and Education with Remote Sim2real](https://www.dynsyslab.org/wp-content/papercite-data/pdf/teetaert-ram25.pdf) IEEE Robotics & Automation Magazine
 > - 📚 [What is the Impact of Releasing Code with Publications?](https://arxiv.org/abs/2308.10008v1) IEEE Control Systems Magazine
 
-> Postdoctoral reseach on __aerial robotics__:🪁 [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) [[paper](https://arxiv.org/abs/2103.02142)] / 🦺 [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) [[paper](https://arxiv.org/abs/2109.06325)]
+> Postdoctoral research on __aerial robotics__:🪁 [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) [[paper](https://arxiv.org/abs/2103.02142)] / 🦺 [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) [[paper](https://arxiv.org/abs/2109.06325)]
 
 <!--
 
