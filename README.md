@@ -3,11 +3,11 @@
 -->
 
 > **Fall 2025**
-- [`aerial-autonomy-stack`](https://github.com/JacopoPan/aerial-autonomy-stack) ROS2 control of PX4/ArduPilot with YOLOv8, LiDAR for real-world drone autonomy ![GitHub Repo stars](https://img.shields.io/github/stars/JacopoPan/aerial-autonomy-stack?style=flat) 
-- [On Your Own: Pro-level Autonomous Drone Racing in Uninstrumented Arenas](https://arxiv.org/abs/2510.13644) [`drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset) ![GitHub Repo stars](https://img.shields.io/github/stars/tii-racing/drone-racing-dataset?style=flat) [[arXiv](https://arxiv.org/abs/2311.02667)] 
+- [`aerial-autonomy-stack`](https://github.com/JacopoPan/aerial-autonomy-stack) ROS2 control of PX4/ArduPilot with YOLOv8, LiDAR for real-world drone autonomy
+- [On Your Own: Pro-level Autonomous Drone Racing in Uninstrumented Arenas](https://arxiv.org/abs/2510.13644) [`drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset) [[arXiv](https://arxiv.org/abs/2311.02667)] 
 
 > **University of Toronto Research**
-- [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) ![GitHub Repo stars](https://img.shields.io/github/stars/utiasDSL/gym-pybullet-drones?style=flat)  [[arXiv](https://arxiv.org/abs/2103.02142)] / [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) ![GitHub Repo stars](https://img.shields.io/github/stars/utiasDSL/safe-control-gym?style=flat)  [[arXiv](https://arxiv.org/abs/2109.06325)] / ["Safe Learning in Robotics"](https://arxiv.org/abs/2108.06266)
+- [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) [[arXiv](https://arxiv.org/abs/2103.02142)] / [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) [[arXiv](https://arxiv.org/abs/2109.06325)] / ["Safe Learning in Robotics"](https://arxiv.org/abs/2108.06266)
 
 <!--
 
