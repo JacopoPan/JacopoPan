@@ -2,11 +2,11 @@
 ### Always in Beta 🧪 
 -->
 
-**Current**: [`aerial-autonomy-stack`](https://github.com/JacopoPan/aerial-autonomy-stack) ROS2 control of PX4/ArduPilot with YOLOv8, LiDAR for real-world drone autonomy
+**@NRC** [`aerial-autonomy-stack`](https://github.com/JacopoPan/aerial-autonomy-stack) ROS2 control of PX4/ArduPilot with YOLOv8, LiDAR for real-world drone autonomy
 
-**@TII**: [On Your Own: Pro-level Autonomous Drone Racing in Uninstrumented Arenas](https://arxiv.org/abs/2510.13644) [`drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset) [[arXiv](https://arxiv.org/abs/2311.02667)] 
+**@TII** 🇦🇪 [On Your Own: Pro-level Autonomous Drone Racing in Uninstrumented Arenas](https://arxiv.org/abs/2510.13644) [`drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset) [[arXiv](https://arxiv.org/abs/2311.02667)] 
 
-**@University of Toronto**: [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) [[arXiv](https://arxiv.org/abs/2103.02142)] / [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) [[arXiv](https://arxiv.org/abs/2109.06325)] / ["Safe Learning in Robotics"](https://arxiv.org/abs/2108.06266)
+**@UofT** 🇨🇦 [`gym-pybullet-drones`](https://github.com/utiasDSL/gym-pybullet-drones) [[arXiv](https://arxiv.org/abs/2103.02142)] / [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym) [[arXiv](https://arxiv.org/abs/2109.06325)] / ["Safe Learning in Robotics"](https://arxiv.org/abs/2108.06266)
 
 <!--
 - [`gymnasium-docker-ros2`](https://github.com/JacopoPan/gymnasium-docker-ros2) Gymnasium synchronous wrapping of Dockerized Gazebo/ROS2 with ZeroMQ
