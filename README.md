@@ -1,6 +1,6 @@
 Interested in autonomous flying machines 🚁🛩️✈️🚀🛸; always in beta 🧪, opinionated OSS [[*curriculum vitae*](https://www.dropbox.com/s/xd876ynmh18gf58/cv.pdf?dl=0)]
 
-**@NRC** <img width="16" alt="QC" src="https://github.com/user-attachments/assets/0fbb5ddc-0e88-4268-9f8e-e12c4bd9cfa9" /> [`aerial-autonomy-stack`](https://github.com/JacopoPan/aerial-autonomy-stack) ROS2 control of PX4/ArduPilot with YOLOv8, LiDAR for real-world drone autonomy
+**@NRC** <img width="16" alt="QC" src="https://github.com/user-attachments/assets/0fbb5ddc-0e88-4268-9f8e-e12c4bd9cfa9" /> [`aerial-autonomy-stack`](https://github.com/JacopoPan/aerial-autonomy-stack) ROS2 control of PX4/ArduPilot with YOLOv8, LiDAR for real-world drones [[arXiv](https://arxiv.org/abs/2602.07264)]
 
 **@TII** 🇦🇪 [On Your Own: Pro-level Autonomous Drone Racing in Uninstrumented Arenas](https://arxiv.org/abs/2510.13644) [`drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset) [[arXiv](https://arxiv.org/abs/2311.02667)] 
 
